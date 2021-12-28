@@ -1,10 +1,16 @@
 package model;
 
 public class Mail {
-    private String mail;
+    private final String mail;
     public Mail(String mail) {
         this.mail = mail;
     }
+
+    @Override
+    public String toString() {
+        return "mail=" + mail;
+    }
+    
     public String getDomain() {
         String resultado = "";
         boolean bandera = false;
