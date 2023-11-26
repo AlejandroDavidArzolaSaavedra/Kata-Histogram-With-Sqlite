@@ -55,14 +55,10 @@ To run Kata5P2, ensure you have the following installed:
 ### 5. MailHistogramBuilder 🏗️
 - Builds a histogram from a list of email addresses.
 
-## 🤝 Contributions
-
-Contributions are welcome! If you have suggestions, improvements, or corrections, feel free to submit pull requests. Diversity of ideas enriches the project.
-
-
 ### 6. MailListReaderBD 📚
 - Reads email addresses from an SQLite database.
 - Uses JDBC to connect to the database and retrieve data.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
+## 🤝 Contributions
+
+Contributions are welcome! If you have suggestions, improvements, or corrections, feel free to submit pull requests. Diversity of ideas enriches the project.
