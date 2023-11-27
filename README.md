@@ -1,4 +1,4 @@
-<h1 align="center">Kata5P2 Histogram with bd-sqlite 🛢️</h1>
+<h1 align="center">Kata Histogram with bd-sqlite 🛢️</h1>
 
 ## Overview
 Kata5P2 is a Java application that reads email addresses from an SQLite database, extracts the domain names, and creates a histogram to display the frequency of each domain. It is an extension of Kata3, now utilizing an SQLite database to store email addresses. 📧📊
